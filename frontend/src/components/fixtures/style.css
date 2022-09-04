@@ -1,0 +1,5 @@
+span.team {
+    width: 200px;
+    display: inline-flex;
+    flex-direction: column;
+}
